@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "descripcion": "\"Revisar documentación\"",
+    "prioridad": "media",
+    "completada": false,
+    "fecha_creacion": "2025-11-24 00:08:15",
+    "fecha_completado": null
+  }
+]

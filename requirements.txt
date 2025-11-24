@@ -1,0 +1,25 @@
+# GESTAP - Gestor de Tareas Personales
+# Archivo de requisitos (requirements.txt)
+
+# Este proyecto utiliza únicamente librerías estándar de Python
+# No se requieren dependencias externas para ejecutar GESTAP
+
+# Versión mínima de Python requerida: 3.6+
+
+# Las siguientes librerías están incluidas en Python estándar:
+# - json (para persistencia de datos)
+# - os (para operaciones de archivos)
+# - sys (para interacción con el sistema)
+# - datetime (para manejo de fechas)
+# - typing (para type hints)
+
+# Si deseas extender GESTAP, podrías considerar:
+# colorama>=0.4.4      # Para colores en terminal Windows
+# click>=8.0.0         # Para mejor interfaz CLI
+# rich>=10.0.0         # Para formato avanzado de terminal
+# pytest>=6.0.0        # Para testing (solo desarrollo)
+
+# Para instalar dependencias opcionales de desarrollo:
+# pip install -r requirements-dev.txt
+
+# Nota: GESTAP funciona perfectamente sin dependencias adicionales
